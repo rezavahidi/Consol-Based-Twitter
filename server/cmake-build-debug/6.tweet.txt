@@ -1,0 +1,1 @@
+{"id":6,"author":"mamad","content":"salam bar to","comments":{},"likes":0}

@@ -1,0 +1,1 @@
+{"id":11,"author":"mamad","content":"ostad","comments":{},"likes":0}

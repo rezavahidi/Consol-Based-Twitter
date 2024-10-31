@@ -1,0 +1,1 @@
+{"id":5,"author":"mamad","content":"salam dash gol","comments":{},"likes":0}

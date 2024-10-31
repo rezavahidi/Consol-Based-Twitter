@@ -1,0 +1,1 @@
+{"id":9,"author":"mamad","content":"hahaha","comments":{},"likes":0}

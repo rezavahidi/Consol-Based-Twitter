@@ -1,0 +1,1 @@
+{"username":"fati","password":"fati","bio":"","followers":["mamad"],"followings":["reza"],"personalTweets":[]}

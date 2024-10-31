@@ -1,0 +1,1 @@
+{"username":"reza","password":"reza","bio":"salam doostan","followers":["fati","soltan","gholam","mamad"],"followings":["mamad"],"personalTweets":[1,2,3,7]}
